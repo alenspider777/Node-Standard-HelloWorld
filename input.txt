@@ -1,0 +1,1 @@
+This method will use file descriptor to read the file. If you want to read the file directly using the file name, then you should use another method available.
